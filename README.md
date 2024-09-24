@@ -1,4 +1,4 @@
-<p align="center"><a href="#" target="_blank"><img src="assets/img/bgp.webp" width="400" alt="BimaGP Preview"></a></p>
+<p align="center"><a href="#" target="_blank"><img src="assets/img/bgp.webp" width="100%" alt="BimaGP Preview"></a></p>
 
 ## About Bima Group
 
